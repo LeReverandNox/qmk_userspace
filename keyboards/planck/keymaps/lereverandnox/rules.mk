@@ -1,4 +1,4 @@
-TAP_DANCE_ENABLE = yes
+TAP_DANCE_ENABLE = no
 RGBLIGHT_ENABLE  = no  # Enable WS2812 RGB underlight.
 MOUSEKEY_ENABLE  = yes
 AUDIO_ENABLE     = yes # Audio output on port C6
